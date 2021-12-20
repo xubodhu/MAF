@@ -5,7 +5,7 @@ Pytorch Implementation of "MAF: A General Matching and Alignment Framework for M
 The code implementation of this paper refers to [jefferyYu](https://github.com/jefferyYu/UMT).
 
 
-<img src="./framework.png"  width="897" height="217" />
+<img src="./framework.png" />
 
 ## Requirements
 
