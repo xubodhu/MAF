@@ -7,6 +7,8 @@ The code implementation of this paper refers to [jefferyYu](https://github.com/j
 
 <img src="./framework.png" />
 
+
+
 ## Requirements
 
 python>=3.6
@@ -39,7 +41,7 @@ See [jefferyYu](https://github.com/jefferyYu/UMT).
 
 - Download the data from [jefferyYu](https://github.com/jefferyYu/UMT).
 
-- Follow the link provided by [jefferyYu](https://github.com/jefferyYu/UMT) to download the pre-trained ResNet-152 from   to the folder resnet.
+- Follow the link provided by [jefferyYu](https://github.com/jefferyYu/UMT) to download the pre-trained ResNet-152 to the folder resnet.
 
 ```bash
 
